@@ -13,3 +13,11 @@ Into this repository you will:
 - Have a readme with evidence of what the project looks like and an explanation of what it does.
 
 To achieve Level 4 on this section you will have to show me your profile on Algorithms in person. I am not able to check this without it.
+
+## Selection Sort Visualizer:
+
+This program sorts an array of random values and displays it on the screen, demonstrating the "swapping strategy" for the user to follow along.  
+
+## Recursive Art:
+
+This program uses recursion to generate shapes into a spiral towards the top-left corner.
